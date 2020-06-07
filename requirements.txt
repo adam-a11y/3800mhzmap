@@ -1,0 +1,11 @@
+geopandas
+pandas
+matplotlib
+numpy
+fiona
+shapely
+from shapely.geometry import Point, Polygon
+contextily
+ipyleaflet 
+ipywidgets
+json
